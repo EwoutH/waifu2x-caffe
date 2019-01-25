@@ -1,4 +1,4 @@
-waifu2x-caffe (for Windows)
+waifu2x-caffe (for Windows) [![Build Status](https://ci.appveyor.com/api/projects/status/github/lltcggie/waifu2x-caffe?branch=master&svg=true)](https://ci.appveyor.com/project/lltcggie/waifu2x-caffe)
 ----------
 
  制作者 : lltcggie
